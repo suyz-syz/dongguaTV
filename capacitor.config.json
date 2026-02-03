@@ -1,9 +1,9 @@
 ﻿{
     "appId": "com.ednovas.donguatv",
-    "appName": "E视界",
+    "appName": "看电影",
     "webDir": "public",
     "server": {
-        "url": "https://ednovas.video",
+        "url": "http://home.yuzhusu.cf:13000",
         "cleartext": true
     },
     "plugins": {
@@ -14,4 +14,5 @@
         },
         "ScreenOrientation": {}
     }
+
 }
