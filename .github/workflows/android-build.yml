@@ -7,13 +7,13 @@ on:
   workflow_dispatch:
     inputs:
       server_url:
-        description: 'Server URL (e.g. https://your-site.com)'
+        description: 'yuzhusu'
         required: true
-        default: 'https://ednovas.video'
+        default: 'http://home.yuzhusu.cf:13000'
       app_name:
         description: 'App Name'
         required: true
-        default: 'E视界'
+        default: '看电视'
       version_tag:
         description: 'Version Tag (e.g. v1.0.0)'
         required: true
